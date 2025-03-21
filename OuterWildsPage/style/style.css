@@ -1,11 +1,11 @@
 .imageA{
-    background-image:url("OuterWildsPage/images/space.jpg");
+    background-image:url("../images/space.jpg");
     background-repeat: no-repeat;
     background-size:cover;
 
     }
 .imageB{
-    background-image:url("OuterWildsPage/images/spaceNoTitle.jpg");
+    background-image:url("../images/spaceNoTitle.jpg");
     background-repeat: no-repeat;
     background-size:cover;
 }
